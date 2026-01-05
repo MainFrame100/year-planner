@@ -9,7 +9,7 @@
 
 ### Шаг 1: Скачать ZIP
 
-Скачайте `year-compass-web-v1.0.zip` из [Releases](../../releases).
+Скачайте `year-compass-web-v1.0.zip` из [Releases](https://github.com/MainFrame100/year-planner/releases).
 
 ### Шаг 2: Загрузить в Claude
 

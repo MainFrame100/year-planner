@@ -20,14 +20,14 @@ mkdir -p .claude/skills
 cp -r /path/to/year-compass/claude-code/year-compass .claude/skills/
 ```
 
-### Вариант 2: Git clone
+### Вариант 2: Git clone (рекомендуется)
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/dmitrii-yu/year-compass.git
+git clone https://github.com/MainFrame100/year-planner.git
 
 # Скопировать нужную версию
-cp -r year-compass/claude-code/year-compass .claude/skills/
+cp -r year-planner/claude-code/year-compass .claude/skills/
 ```
 
 ## Структура после установки
