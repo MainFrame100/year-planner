@@ -48,7 +48,7 @@ cp -r year-planner/claude-code/year-compass /path/to/your/project/.claude/skills
 
 ### Claude.ai Web/Desktop
 
-1. Скачайте ZIP: [year-compass-web-v1.0.zip](https://github.com/MainFrame100/year-planner/releases)
+1. Скачайте ZIP: [year-compass-web-v1.0.zip](https://github.com/MainFrame100/year-planner/raw/main/downloads/year-compass-web-v1.0.zip)
 2. Откройте Claude.ai → Settings → Capabilities → Skills
 3. Нажмите "Upload skill" → выберите ZIP
 4. Включите skill (toggle ON)
@@ -224,7 +224,7 @@ year-planner/
 ├── examples/                    # Примеры заполненных планов
 │   ├── example_annual_plan.md
 │   └── example_january.md
-├── releases/                    # Готовые ZIP-архивы
+├── downloads/                   # Готовые ZIP-архивы
 └── docs/                        # Документация
 ```
 
