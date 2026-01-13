@@ -7,9 +7,9 @@
 
 ## Установка
 
-### Шаг 1: Скачать ZIP
+### Шаг 1: Скачать Skill
 
-Скачайте [`year-compass-web-v1.0.zip`](https://github.com/MainFrame100/year-planner/raw/main/downloads/year-compass-web-v1.0.zip).
+Скачайте [`year-compass-web.skill`](https://github.com/MainFrame100/year-planner/raw/main/downloads/year-compass-web.skill).
 
 ### Шаг 2: Загрузить в Claude
 
@@ -18,7 +18,7 @@
 3. Выберите **Capabilities**
 4. Найдите раздел **Skills**
 5. Нажмите **Upload skill**
-6. Выберите скачанный ZIP-файл
+6. Выберите скачанный `.skill` файл
 7. Включите skill (toggle ON)
 
 ### Шаг 3: Создать Project (рекомендуется)
@@ -124,7 +124,7 @@ Claude предложит:
 
 ### Skill не появился
 
-- Проверьте, что ZIP загрузился без ошибок
+- Проверьте, что `.skill` файл загрузился без ошибок
 - Убедитесь, что toggle включен в Settings → Capabilities
 
 ### Claude не видит файл в Project
@@ -138,4 +138,4 @@ Claude предложит:
 
 ---
 
-Last Updated: 2026-01-05
+Last Updated: 2026-01-13

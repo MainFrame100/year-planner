@@ -48,9 +48,9 @@ cp -r year-planner/claude-code/year-compass /path/to/your/project/.claude/skills
 
 ### Claude.ai Web/Desktop
 
-1. Скачайте ZIP: [year-compass-web-v1.0.zip](https://github.com/MainFrame100/year-planner/raw/main/downloads/year-compass-web-v1.0.zip)
+1. Скачайте skill: [year-compass-web.skill](https://github.com/MainFrame100/year-planner/raw/main/downloads/year-compass-web.skill)
 2. Откройте Claude.ai → Settings → Capabilities → Skills
-3. Нажмите "Upload skill" → выберите ZIP
+3. Нажмите "Upload skill" → выберите скачанный файл
 4. Включите skill (toggle ON)
 5. Создайте Project "Годовой план 2026" для хранения прогресса
 
@@ -62,12 +62,12 @@ cp -r year-planner/claude-code/year-compass /path/to/your/project/.claude/skills
 
 **Вариант 1: Через Project**
 1. Создайте проект "Годовой план 2026"
-2. Скачайте и распакуйте ZIP
+2. Скачайте и распакуйте [year-compass-web.skill](https://github.com/MainFrame100/year-planner/raw/main/downloads/year-compass-web.skill)
 3. Загрузите `SKILL.md` как системную инструкцию
 4. Загрузите файлы из `references/` как источники знаний
 
 **Вариант 2: Быстрый старт**
-1. Просто перетащите ZIP-архив в чат
+1. Просто перетащите .skill файл в чат
 2. AI поможет настроить всё автоматически
 
 ## Как пользоваться
@@ -224,7 +224,7 @@ year-planner/
 ├── examples/                    # Примеры заполненных планов
 │   ├── example_annual_plan.md
 │   └── example_january.md
-├── downloads/                   # Готовые ZIP-архивы
+├── downloads/                   # Готовые .skill файлы
 └── docs/                        # Документация
 ```
 
@@ -248,4 +248,4 @@ MIT License — используйте свободно.
 
 ---
 
-Last Updated: 2026-01-06
+Last Updated: 2026-01-13
